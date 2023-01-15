@@ -4,4 +4,4 @@ Taught by Faraday
 
 
 ## Subheader
-Watch tutorial on YouTube
+Watch tutorial on YouTube. You'll learn a lot
